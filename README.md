@@ -2,7 +2,9 @@
 
 ## My name is James Dumas
 
-I graduated from Indiana University in 2022, with a degree in Computer Science & specialization in Artificial Intelligence. I work at [Ferguson Advertising](https://theferg.com) as a Software Engineer. I'm also a hobbyist game developer and modder.
+### But the cool kids just call me *jamac*
+
+I graduated from Indiana University in 2022, with a bachelor's degree in Computer Science & specialization in Artificial Intelligence. I work at [Ferguson Advertising](https://theferg.com) as a Software Engineer. I'm also a hobbyist game developer and modder.
 
 Aside from programming, I'm also interested in astronomy, physics, machine learning, and quantum computing.
 
@@ -12,7 +14,7 @@ Aside from programming, I'm also interested in astronomy, physics, machine learn
 https://jamac.itch.io/
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)<br>
-**jamac#7749**
+**@jamac**
 
 ### Languages/Frameworks
 
