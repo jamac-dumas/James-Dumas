@@ -4,9 +4,9 @@
 
 ### But the cool kids just call me *jamac*
 
-I graduated from Indiana University in 2022, with a bachelor's degree in Computer Science & specialization in Artificial Intelligence. I work at [Ferguson Advertising](https://theferg.com) as a Software Engineer. I'm also a hobbyist game developer and modder.
+I graduated from Indiana University in 2022, with a bachelor's degree in Computer Science & specialization in Artificial Intelligence. I work at [The Ferguson Agency](https://theferg.com) as a Software Engineer. I'm also a hobbyist game developer and modder.
 
-Aside from programming, I'm also interested in astronomy, physics, machine learning, and quantum computing.
+Aside from programming, I'm also interested in astronomy, physics, linguistics, machine learning, and quantum computing.
 
 ### Find me on other platforms
 
