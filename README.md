@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is James Dumas
+## My name is Jaye Dumas
 
 ### But the cool kids just call me *jamac*
 
